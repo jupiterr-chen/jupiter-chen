@@ -1,0 +1,45 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jupiterChen",
+    "packageName": "com.jupiterc",
+    "packageFolder": "com/jupiterc",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.2.0",
+    "jwtSecretKey": "M2YxNmVjNDlkOTEyNWJjNzVkZWY2OGMwZGQwMzRjNjk0ZDc3YjBjMDc3MzM1NzM0NjFhZDA4ZWI2ZjI5MDYyOWRjNjI5NWExNWNjMDQ5NDE5YmEzZDE3OThhZGE5N2Y1NmFhNWRjMTMxODUzMmNkZmQ4Zjg3OTIwMTU2ZDdmODk=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "jupiterr-chen",
+  "repository-name": "jupiter-chen"
+}
